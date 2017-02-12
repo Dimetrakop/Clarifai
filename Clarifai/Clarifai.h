@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ClarifaiApp.h"
 
 //! Project version number for Clarifai.
 FOUNDATION_EXPORT double ClarifaiVersionNumber;
