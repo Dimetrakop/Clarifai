@@ -8,28 +8,28 @@
 
 /* Begin PBXBuildFile section */
 		99FFC69B1E50F0C8008C97BB /* Clarifai.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6991E50F0C8008C97BB /* Clarifai.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		99FFC6B91E50F168008C97BB /* ClarifaiApp.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A21E50F168008C97BB /* ClarifaiApp.h */; };
+		99FFC6B91E50F168008C97BB /* ClarifaiApp.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A21E50F168008C97BB /* ClarifaiApp.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6BA1E50F168008C97BB /* ClarifaiApp.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6A31E50F168008C97BB /* ClarifaiApp.m */; };
-		99FFC6BB1E50F168008C97BB /* ClarifaiConcept.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A41E50F168008C97BB /* ClarifaiConcept.h */; };
+		99FFC6BB1E50F168008C97BB /* ClarifaiConcept.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A41E50F168008C97BB /* ClarifaiConcept.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6BC1E50F168008C97BB /* ClarifaiConcept.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6A51E50F168008C97BB /* ClarifaiConcept.m */; };
-		99FFC6BD1E50F168008C97BB /* ClarifaiConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A61E50F168008C97BB /* ClarifaiConstants.h */; };
-		99FFC6BE1E50F168008C97BB /* ClarifaiCrop.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A71E50F168008C97BB /* ClarifaiCrop.h */; };
+		99FFC6BD1E50F168008C97BB /* ClarifaiConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A61E50F168008C97BB /* ClarifaiConstants.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		99FFC6BE1E50F168008C97BB /* ClarifaiCrop.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A71E50F168008C97BB /* ClarifaiCrop.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6BF1E50F168008C97BB /* ClarifaiCrop.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6A81E50F168008C97BB /* ClarifaiCrop.m */; };
-		99FFC6C01E50F168008C97BB /* ClarifaiImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A91E50F168008C97BB /* ClarifaiImage.h */; };
+		99FFC6C01E50F168008C97BB /* ClarifaiImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6A91E50F168008C97BB /* ClarifaiImage.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6C11E50F168008C97BB /* ClarifaiImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6AA1E50F168008C97BB /* ClarifaiImage.m */; };
-		99FFC6C21E50F168008C97BB /* ClarifaiInput.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6AB1E50F168008C97BB /* ClarifaiInput.h */; };
+		99FFC6C21E50F168008C97BB /* ClarifaiInput.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6AB1E50F168008C97BB /* ClarifaiInput.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6C31E50F168008C97BB /* ClarifaiInput.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6AC1E50F168008C97BB /* ClarifaiInput.m */; };
-		99FFC6C41E50F168008C97BB /* ClarifaiModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6AD1E50F168008C97BB /* ClarifaiModel.h */; };
+		99FFC6C41E50F168008C97BB /* ClarifaiModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6AD1E50F168008C97BB /* ClarifaiModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6C51E50F168008C97BB /* ClarifaiModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6AE1E50F168008C97BB /* ClarifaiModel.m */; };
-		99FFC6C61E50F168008C97BB /* ClarifaiModelVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6AF1E50F168008C97BB /* ClarifaiModelVersion.h */; };
+		99FFC6C61E50F168008C97BB /* ClarifaiModelVersion.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6AF1E50F168008C97BB /* ClarifaiModelVersion.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6C71E50F168008C97BB /* ClarifaiModelVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6B01E50F168008C97BB /* ClarifaiModelVersion.m */; };
-		99FFC6C81E50F168008C97BB /* ClarifaiOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B11E50F168008C97BB /* ClarifaiOutput.h */; };
+		99FFC6C81E50F168008C97BB /* ClarifaiOutput.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B11E50F168008C97BB /* ClarifaiOutput.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6C91E50F168008C97BB /* ClarifaiOutput.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6B21E50F168008C97BB /* ClarifaiOutput.m */; };
-		99FFC6CA1E50F168008C97BB /* ClarifaiSearchResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B31E50F168008C97BB /* ClarifaiSearchResult.h */; };
+		99FFC6CA1E50F168008C97BB /* ClarifaiSearchResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B31E50F168008C97BB /* ClarifaiSearchResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6CB1E50F168008C97BB /* ClarifaiSearchResult.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6B41E50F168008C97BB /* ClarifaiSearchResult.m */; };
-		99FFC6CC1E50F168008C97BB /* ClarifaiSearchTerm.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B51E50F168008C97BB /* ClarifaiSearchTerm.h */; };
+		99FFC6CC1E50F168008C97BB /* ClarifaiSearchTerm.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B51E50F168008C97BB /* ClarifaiSearchTerm.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6CD1E50F168008C97BB /* ClarifaiSearchTerm.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6B61E50F168008C97BB /* ClarifaiSearchTerm.m */; };
-		99FFC6CE1E50F168008C97BB /* NSArray+Clarifai.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B71E50F168008C97BB /* NSArray+Clarifai.h */; };
+		99FFC6CE1E50F168008C97BB /* NSArray+Clarifai.h in Headers */ = {isa = PBXBuildFile; fileRef = 99FFC6B71E50F168008C97BB /* NSArray+Clarifai.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		99FFC6CF1E50F168008C97BB /* NSArray+Clarifai.m in Sources */ = {isa = PBXBuildFile; fileRef = 99FFC6B81E50F168008C97BB /* NSArray+Clarifai.m */; };
 		99FFC6D21E50F61C008C97BB /* AFNetworking.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 99FFC6D11E50F61C008C97BB /* AFNetworking.framework */; };
 /* End PBXBuildFile section */
